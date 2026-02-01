@@ -5,7 +5,8 @@ Indice de credenciales y certificaciones organizadas por especialidad.
 ---
 
 ### 📂 [SolidWorks](./SolidWorks/)
-*Certificados de niveles Básico, Intermedio y Especialista.*
+[CERTIFICADO JERICO ATOCHE - SDW01.pdf](https://github.com/user-attachments/files/24987243/CERTIFICADO.JERICO.ATOCHE.-.SDW01.pdf)
+
 
 ### 📂 [Excel](./Excel/)
 *Certificaciones de Excel Básico y Avanzado.*
