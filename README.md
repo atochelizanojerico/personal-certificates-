@@ -1,6 +1,6 @@
 # 🎓 Mis Certificaciones y Logros Académicos
 
-¡Hola! Soy **[Tu Nombre Aquí]**, estudiante de Ingeniería Mecánica. En este repositorio centralizo mis certificados, cursos y credenciales que respaldan mi formación técnica y profesional.
+¡Hola! Soy Jerico Atoche, estudiante de Ingeniería Mecánica. En este repositorio centralizo mis certificados, cursos y credenciales que respaldan mi formación técnica y profesional.
 
 ---
 
