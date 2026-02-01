@@ -1,40 +1,23 @@
-# 🎓 Mis Certificaciones y Logros Académicos
+# 📁 Mis Certificados - Ingeniería Mecánica
 
-¡Hola! Soy Jerico Atoche, estudiante de Ingeniería Mecánica. En este repositorio centralizo mis certificados, cursos y credenciales que respaldan mi formación técnica y profesional.
-
----
-
-## 🛠️ Áreas de Especialización
-
-| Categoría | Descripción |
-| :--- | :--- |
-| **Diseño y CAD** | Modelado 3D, ensamblajes y planos técnicos. |
-| **Simulación y Software** | Análisis de elementos finitos (FEA), Matlab y Python. |
-| **Habilidades Técnicas** | Termodinámica, manufactura y procesos industriales. |
-| **Soft Skills & Idiomas** | Gestión de proyectos e inglés técnico. |
+Indice de credenciales y certificaciones organizadas por especialidad.
 
 ---
 
-## 📜 Directorio de Certificados
+### 📂 [SolidWorks](./SolidWorks/)
+*Certificados de niveles Básico, Intermedio y Especialista.*
 
-### 🖥️ Diseño Asistido por Computadora (CAD)
-* **Certificado en SolidWorks Professional** - *Institución* (2024) - [📄 Ver Certificado](./certificados/cad/solidworks.pdf)
-* **AutoCAD para Ingeniería** - *Institución* (2023) - [📄 Ver Certificado](./certificados/cad/autocad.pdf)
+### 📂 [Excel](./Excel/)
+*Certificaciones de Excel Básico y Avanzado.*
 
-### 📊 Software e Ingeniería
-* **Análisis de Datos con Python** - *Institución* (2024) - [🔗 Credencial Online](http://enlace-a-tu-certificado.com)
-* **Matlab para Ingenieros** - *Institución* (2023) - [📄 Ver Certificado](./certificados/software/matlab.pdf)
+### 📂 [Mantenimiento y PLC](./Mantenimiento-y-PLC/)
+*Especialización en Planner de Mantenimiento y PLC Básico.*
 
-### 🇬🇧 Idiomas
-* **Inglés Técnico B2** - *Institución* (2024) - [📄 Ver Certificado](./certificados/idiomas/ingles.pdf)
+### 📂 [Idiomas](./Idiomas/)
+*Certificados de Inglés (ICPNA).*
 
----
-
-## 📂 Cómo está organizado este repo
-Para facilitar la navegación, los archivos están divididos por carpetas:
-- `/certificados/cad`: Todo lo relacionado a diseño.
-- `/certificados/software`: Matlab, Python, Excel, etc.
-- `/certificados/idiomas`: Certificaciones lingüísticas.
+### 📂 [AutoCAD](./AutoCAD/)
+*Certificados de nivel Intermedio.*
 
 ---
-📫 **Contacto:** [Tu Correo] | [Tu LinkedIn]
+_Última actualización: Enero 2026_
