@@ -5,7 +5,7 @@ Indice de credenciales y certificaciones organizadas por especialidad.
 ---
 
 ### 📂 [SolidWorks](./SolidWorks/)
-[CERTIFICADO JERICO ATOCHE - SDW01.pdf](https://github.com/user-attachments/files/24987243/CERTIFICADO.JERICO.ATOCHE.-.SDW01.pdf)
+
 
 
 ### 📂 [Excel](./Excel/)
