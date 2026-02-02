@@ -13,7 +13,7 @@ Indice de certificaciones, organizadas por especialidad.
 
 ### 📁 [SolidWorks](./solidworks_certificates/)
 *Certificaciones de SolidWorks Básico, Intermerdio, Avanzado, Master y Experto en SolidWorks.*
-* 📜 <a href="./solidworks_certificates/CERTIFICADO%20EXPERTO%20SOLIDWORKS%20-%20JERICO%20ATOCHE.pdf" Ver Certificado Experto SolidWorks</a> 
+* 📜 <a href="./solidworks_certificates/CERTIFICADO%20EXPERTO%20SOLIDWORKS%20-%20JERICO%20ATOCHE.pdf" target="_blank">Ver Certificado Experto SolidWorks</a> 
 * 📜 <a href="./solidworks_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20SDW01.pdf" target="_blank">Ver Certificado SolidWorks Básico</a> 
 * 📜 <a href="./solidworks_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20SDW02.pdf" target="_blank">Ver Certificado SolidWorks Intermedio</a> 
 * 📜 <a href="./solidworks_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20SDW03.pdf" target="_blank">Ver Certificado SolidWorks Avanzado</a>
