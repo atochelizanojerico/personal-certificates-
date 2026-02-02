@@ -22,8 +22,8 @@ Indice de certificaciones, organizadas por especialidad.
 ### 📁 [Excel](./excel_certificates/)
 *Certificaciones de Excel Básico, Intermerdio y Avanzado.*
 * 📜 <a href="./excel_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20EXCEL%2001.pdf" target="_blank">Ver Certificado Excel Básico</a>
-* [📜 Ver Certificado Excel Intermedio](./excel_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20EXCEL%2002.pdf)
-* [📜 Ver Certificado Excel Avanzado](./excel_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20EXCEL%2003.pdf)
+* 📜 <a href="./excel_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20EXCEL%2002.pdf" target="_blank">Ver Certificado Excel Intermedio</a>
+* 📜 <a href="./excel_certificates/CERTIFICADO%20JERICO%20ATOCHE%20-%20EXCEL%2003.pdf" target="_blank">Ver Certificado Excel Avanzado</a>
 
 ### 📁 [Planner de Mantenimiento](./mantenimiento_certificate/)
 *Especialización en Planner de Mantenimiento.*
